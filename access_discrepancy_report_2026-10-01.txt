@@ -1,0 +1,9 @@
+SOC 2 CC6.3 Access Reconciliation Evidence
+Generated on: Thursday 01 October 2026 10:01:51 AM IST
+--------------------------------------------------
+FLAGGED ORPHANED ACCOUNTS (Requires Immediate Removal):
+
+[VIOLATION] User 'rrogers' was terminated on 2026-09-01 but still has an active system account.
+[VIOLATION] User 'ckent' was terminated on 2026-09-15 but still has an active system account.
+--------------------------------------------------
+Reconciliation complete. End of audit evidence.

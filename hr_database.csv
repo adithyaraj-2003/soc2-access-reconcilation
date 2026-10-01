@@ -1,0 +1,6 @@
+employee_id,username,status,termination_date
+101,jdoe,Active,
+102,asmith,Active,
+103,rrogers,Terminated,2026-09-01
+104,bwayne,Active,
+105,ckent,Terminated,2026-09-15
